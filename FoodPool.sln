@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPool.Web", "FoodPool.Web\FoodPool.Web.csproj", "{562ECFEA-A8DA-46B4-9229-770F9EF51D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPool.Core", "FoodPool.Core\FoodPool.Core.csproj", "{8BA724DC-4353-45A1-96F3-D3A29353FA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPool.Data", "FoodPool.Data\FoodPool.Data.csproj", "{499A12DF-BC6F-4B98-89F5-579D437A2AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodPool.Services", "FoodPool.Services\FoodPool.Services.csproj", "{CF964127-6269-4110-8EB4-4E03862193E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562ECFEA-A8DA-46B4-9229-770F9EF51D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562ECFEA-A8DA-46B4-9229-770F9EF51D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562ECFEA-A8DA-46B4-9229-770F9EF51D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562ECFEA-A8DA-46B4-9229-770F9EF51D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA724DC-4353-45A1-96F3-D3A29353FA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA724DC-4353-45A1-96F3-D3A29353FA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA724DC-4353-45A1-96F3-D3A29353FA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA724DC-4353-45A1-96F3-D3A29353FA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499A12DF-BC6F-4B98-89F5-579D437A2AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499A12DF-BC6F-4B98-89F5-579D437A2AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499A12DF-BC6F-4B98-89F5-579D437A2AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499A12DF-BC6F-4B98-89F5-579D437A2AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF964127-6269-4110-8EB4-4E03862193E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF964127-6269-4110-8EB4-4E03862193E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF964127-6269-4110-8EB4-4E03862193E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF964127-6269-4110-8EB4-4E03862193E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
